@@ -5,6 +5,7 @@ Fraud Detection of Insurance Claims
 
 
 ## Reason for selection 
+This topic was selected because it can be quite a challenge to determine which claims for insurance are genuine and which ones are fake. The purpose for selecting this topic is to make it 
 
 
 ## Description of source of Data
