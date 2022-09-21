@@ -13,6 +13,9 @@ This topic was selected because it can be quite a challenge to determine which c
 
 ## Questions to be answered with the Data 
 
+- How often poeple file for insurance claim ?
+- Decision whether claim is fradulant or not ?
+
 
 ## Description of the communication Protocols 
 
