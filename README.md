@@ -11,7 +11,7 @@ The reason for selecting this topic is to use machine learning to predict insura
  
 
 
-## Description of the source of Data
+## Description of the Source of Data
 
 
 ## Questions to be answered with the Data 
