@@ -41,8 +41,8 @@ Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
 
 
 ## Questions to be answered with the Data 
-1) How often poeple file for insurance claim ?
-2) Decision whether claim is fradulant or not ?
+1) How often poeple file for insurance claim?
+2) Decision whether claim is fradulant or not?
 
 ## Description of the communication Protocols 
 1) All the project code/work will be tracked on Github repository. Each member will create a branch and upload their work to their respective branch and will add reviewer, once the code is reviewed and approved by the peers, the code will be merged to Main/Master branch.
