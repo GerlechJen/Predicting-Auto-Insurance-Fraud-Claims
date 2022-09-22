@@ -39,7 +39,8 @@ Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
 
 
 ## Questions to be answered with the Data 
-
+- How often poeple file for insurance claim ?
+- Decision whether claim is fradulant or not ?
 
 ## Description of the communication Protocols 
 
