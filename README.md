@@ -11,11 +11,16 @@ The reason for selecting this topic is to use machine learning to predict insura
  
 
 
-## Description of source of Data
+## Description of the source of Data
 
 
 ## Questions to be answered with the Data 
 
 
 ## Description of the communication Protocols 
+
+
+
+## Machine Learning Model
+
 
