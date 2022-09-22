@@ -20,6 +20,11 @@ The reason for selecting this topic is to use machine learning to predict insura
 
 
 ## Machine Learning Model
-The objective of our analysis is to be able to detect a high percentage of fraudulent insurance claims. As such we will use Recall to weigh our results. 
+
+
+
+## Summary
+We will be designing supervised machine learning, classification to be precise.
+Our objective is to be able to predict a high percentage of fraudulent insurance claims. As such we will use Recall to weigh our results. 
  
 
