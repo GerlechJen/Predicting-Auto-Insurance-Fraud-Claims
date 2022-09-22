@@ -10,7 +10,7 @@ This topic was selected because it can be quite a challenge to determine which c
 
 ## Description of source of Data
 
-Dataset columns and description are as below:
+Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
 1) months_as_customer: It denotes the number of months for which the customer is associated with the insurance company.
 2) age: continuous. It denotes the age of the person.
 3) policy_number: The policy number.
@@ -35,7 +35,7 @@ Dataset columns and description are as below:
 22) authorities_contacted: Which authority was contacted.
 23) incident_state: The state in which the incident took place.
 24) incident_city: The city in which the incident took place.
-25 incident_location: The street in which the incident took place.
+25) incident_location: The street in which the incident took place.
 
 
 ## Questions to be answered with the Data 
