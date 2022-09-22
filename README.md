@@ -51,5 +51,5 @@ Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
 4) If needed Team will conduct adhoc meetings (on Xoom or Webex) to discuss clarifications and pressing issues.
 
 ## Machine Learning Model
-We will be using supervised machine learning model.
+We will be using classification - supervised machine learning model.
 ![image (1)](https://user-images.githubusercontent.com/104685001/191869886-2b0721a4-bbb1-4ee5-8ff3-37de7e556129.png)
