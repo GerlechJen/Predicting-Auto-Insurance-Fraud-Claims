@@ -10,10 +10,10 @@ Pandas - Libraries used for creating and cleaning the dataset.
 Postgres - Storing the dataset into tables.
 
 ## Team Roles
-Square: Sandeep
-Triangle: Jennifer
-Circle: Bernie
-X: Yuvraj
+* Square: Sandeep
+* Triangle: Jennifer
+* Circle: Bernie
+* X: Yuvraj
 
 
 ## Reason for selection 
