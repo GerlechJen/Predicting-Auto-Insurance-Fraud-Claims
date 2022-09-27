@@ -4,10 +4,10 @@
 Fraud Detection of Insurance Claims 
 
 ## Technology Stack
-Jupyter notebook - To load the dataset into dataframe and subsequently into database.
-Python - Programming language used
-Pandas - Libraries used for creating and cleaning the dataset.
-Postgres - Storing the dataset into tables.
+* Jupyter notebook - To load the dataset into dataframe and subsequently into database.
+* Python - Programming language used
+* Pandas - Libraries used for creating and cleaning the dataset.
+* Postgres - Storing the dataset into tables.
 
 ## Team Roles
 * Square: Sandeep
