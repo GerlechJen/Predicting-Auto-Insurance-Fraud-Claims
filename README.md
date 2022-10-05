@@ -52,7 +52,7 @@ Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
 We will be using classification - supervised machine learning model.
 ![image (1)](https://user-images.githubusercontent.com/104685001/191869886-2b0721a4-bbb1-4ee5-8ff3-37de7e556129.png)
 
-Machine learning model - Decision Tree Classifier
+**Machine learning model - Decision Tree Classifier**
 
 Why we chose Decision Tree Classifier model?
 
@@ -60,24 +60,27 @@ Decision tree classifer is easy to intepret, understand and visualize.
 It can be used for both regression and classification problems.
 Our team is trying to build a machine learning model to predict the likelihood of insurance fraud based on the dataset.
 
-What are the benefits?
+**What are the benefits?**
 
 Decision tree helps to quickly identify relationships between variables and the most significant variable.
+
 The output of a decision tree can also be easily understood.
 
-What are the limitations?
+**What are the limitations?**
 
 Decision trees cannot be used well with continuous numerical variables.
+
 A small change in the data tends to cause a big difference in the tree structure, which causes instability.
 
 **Machine learning model - Random Forest Classifier**
-Why we chose Random Forest Classifier model?
+
+**Why we chose Random Forest Classifier model?**
 
 Insurance analysis requires a lot of effort as it contains a high risk of profit and loss.
 
 Customer analysis is the most common studies done for fraud prediction. RFC is a great choice for fraud detection.
 
-What are the benefits?
+**What are the benefits?**
 
 Reduced overfitting in decision trees and helps to improve accuracy.
 
