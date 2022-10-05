@@ -70,18 +70,23 @@ What are the limitations?
 Decision trees cannot be used well with continuous numerical variables.
 A small change in the data tends to cause a big difference in the tree structure, which causes instability.
 
-Machine learning model - Random Forest Classifier
+**Machine learning model - Random Forest Classifier**
 Why we chose Random Forest Classifier model?
 
 Insurance analysis requires a lot of effort as it contains a high risk of profit and loss.
+
 Customer analysis is the most common studies done for fraud prediction. RFC is a great choice for fraud detection.
 
 What are the benefits?
+
 Reduced overfitting in decision trees and helps to improve accuracy.
+
 Flexible to both classification and regression problems.
 
 What are the limitations?
+
 Takes longer time to train as it combines a lot of decision trees.
+
 Takes much computational power and resources as it builds many decision trees to combine their outputs.
 
 
