@@ -8,7 +8,6 @@ Insurance fraud takes various forms from staged automobile collisions to submiss
 
 The reason for selecting this topic is to use machine learning to predict insurance claims that might be a fraud. After obtaining the list of fraudulent claims, the insurance company can take further action and investigate for confirmation. This will help increase the rate at which fraud investigation is carried out by insurance companies.
 
-
 ## Description of source of Data
 
 Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
@@ -73,4 +72,16 @@ We have loaded our dataframe into a sql database.
 * Circle: Bernie
 * X: Yuvraj
 
+
+## Technology Stack
+* Jupyter notebook - To load the dataset into dataframe and subsequently into database.
+* Python - Programming language used
+* Pandas - Libraries used for creating and cleaning the dataset.
+* Postgres - Storing the dataset into tables.
+
+## Team Roles
+* Square: Sandeep
+* Triangle: Jennifer
+* Circle: Bernie
+* X: Yuvraj
 
