@@ -3,19 +3,6 @@
 ## Selected Topic
 Fraud Detection of Insurance Claims 
 
-## Technology Stack
-* Jupyter notebook - To load the dataset into dataframe and subsequently into database.
-* Python - Programming language used
-* Pandas - Libraries used for creating and cleaning the dataset.
-* Postgres - Storing the dataset into tables.
-
-## Team Roles
-* Square: Sandeep
-* Triangle: Jennifer
-* Circle: Bernie
-* X: Yuvraj
-
-
 ## Reason for selection 
 Insurance fraud takes various forms from staged automobile collisions to submission of false invoices for rehabilitation services, and false theft claims just to mention a few. This causes insurance companies to suffer significant financial loss which affects their financial resources to pay legitimate claims. In the long run insurance consumers are the ones who suffer because they are made to pay higher premiums. In Ontario alone, the Insurance Bureau of Canada estimated that the cost of insurance fraud ranges between $770 million and $1.6 billion a year. It can be quite a challenge to determine which claims for insurance are legitimate and which ones are fake.
 
@@ -73,5 +60,17 @@ We used the following code to load the CSV file into dataframe
 We have loaded our dataframe into a sql database.
 ![image](https://user-images.githubusercontent.com/104685001/191875286-cc362854-a94f-4272-9c2e-e4ddc6820915.png)
 ![image](https://user-images.githubusercontent.com/104685001/191875320-666a378b-a3e8-4ba7-b32a-a3add6df36c7.png)
+
+## Technology Stack
+* Jupyter notebook - To load the dataset into dataframe and subsequently into database.
+* Python - Programming language used
+* Pandas - Libraries used for creating and cleaning the dataset.
+* Postgres - Storing the dataset into tables.
+
+## Team Roles
+* Square: Sandeep
+* Triangle: Jennifer
+* Circle: Bernie
+* X: Yuvraj
 
 
