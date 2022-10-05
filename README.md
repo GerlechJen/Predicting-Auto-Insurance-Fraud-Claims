@@ -54,7 +54,7 @@ We will be using classification - supervised machine learning model.
 
 **Machine learning model - Decision Tree Classifier**
 
-Why we chose Decision Tree Classifier model?
+**Why we chose Decision Tree Classifier model?**
 
 Decision tree classifer is easy to intepret, understand and visualize.
 It can be used for both regression and classification problems.
