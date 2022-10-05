@@ -58,6 +58,7 @@ Why we chose Decision Tree Classifier model?
 
 Decision tree classifer is easy to intepret, understand and visualize.
 It can be used for both regression and classification problems.
+
 Our team is trying to build a machine learning model to predict the likelihood of insurance fraud based on the dataset.
 
 **What are the benefits?**
@@ -86,7 +87,7 @@ Reduced overfitting in decision trees and helps to improve accuracy.
 
 Flexible to both classification and regression problems.
 
-What are the limitations?
+**What are the limitations?**
 
 Takes longer time to train as it combines a lot of decision trees.
 
