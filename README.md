@@ -8,7 +8,7 @@ Insurance fraud takes various forms from staged automobile collisions to submiss
 
 The reason for selecting this topic is to use machine learning to predict insurance claims that might be a fraud. After obtaining the list of fraudulent claims, the insurance company can take further action and investigate for confirmation. This will help increase the rate at which fraud investigation is carried out by insurance companies.
 
-## Description of source of Data
+## Description of Source of Data
 
 Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
 1) months_as_customer: It denotes the number of months for which the customer is associated with the insurance company.
@@ -38,11 +38,11 @@ Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
 25) incident_location: The street in which the incident took place.
 
 
-## Questions to be answered with the Data 
+## Questions to be Answered with the Data 
 1) How often poeple file for insurance claim?
 2) Decision whether claim is fradulant or not?
 
-## Description of the communication Protocols 
+## Description of the Communication Protocols 
 1) All the project code/work will be tracked on Github repository. Each member will create a branch and upload their work to their respective branch and will add reviewer, once the code is reviewed and approved by the peers, the code will be merged to Main/Master branch.
 2) Team will meeting every Tuesday and Thursday at 7:00pm to 9:00 ET in the scheduled sessions with TAs to discuss the progress, impediments and to allocate the next tasks.
 3) lack will be used for quick exchanges/discussions.
