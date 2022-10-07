@@ -103,23 +103,25 @@ We have loaded our dataframe into a sql database.
 
 ## Description of Data Preprocessing/Feature Engineering
 
-### Data preprocessin
-•Checking null values.
-•Dropping columns.
-•Counting the number of frauds and visualizing.
+### Data Preprocessing
 
-### Feature engineering:
-•Creating dictionaries to change datatypes using map function to convert datatypes.
-•Calculation average fraud reported using groupby functions.
-•Dropping more columns.
+- Checking null values.
+- Dropping columns.
+- Counting the number of frauds and visualizing.
+
+### Feature Engineering:
+
+- Creating dictionaries to change datatypes using map function to convert datatypes.
+- Calculation average fraud reported using groupby functions.
+- Dropping more columns.
 
 ## Tools used for Dashboard
 Tableau will be used to visualize our data and share insights
 
 Details on our dashboard will include the following:
-•Fraud reported by gender
-•Frauds by state
-•Fraud reported by age group
+- Fraud reported by gender
+- Frauds by state
+- Fraud reported by age group
 
 
 ## Technology Stack
