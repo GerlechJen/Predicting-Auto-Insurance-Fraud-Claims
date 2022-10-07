@@ -102,6 +102,27 @@ We have loaded our dataframe into a sql database.
 ![image](https://user-images.githubusercontent.com/104685001/191875286-cc362854-a94f-4272-9c2e-e4ddc6820915.png)
 ![image](https://user-images.githubusercontent.com/104685001/191875320-666a378b-a3e8-4ba7-b32a-a3add6df36c7.png)
 
+## Description of Data Preprocessing/Feature Engineering
+
+### Data preprocessin
+•Checking null values.
+•Dropping columns.
+•Counting the number of frauds and visualizing.
+
+### Feature engineering:
+•Creating dictionaries to change datatypes using map function to convert datatypes.
+•Calculation average fraud reported using groupby functions.
+•Dropping more columns.
+
+## Tools used for Dashboard
+Tableau will be used to visualize our data and share insights
+
+Details on our dashboard will include the following:
+•Fraud reported by gender
+•Frauds by state
+•Fraud reported by age group
+
+
 ## Technology Stack
 * Jupyter notebook - To load the dataset into dataframe and subsequently into database.
 * Python - Programming language used
