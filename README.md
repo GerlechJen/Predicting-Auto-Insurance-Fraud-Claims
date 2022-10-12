@@ -39,6 +39,29 @@ Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
 1) How often poeple file for insurance claim?
 2) Decision whether claim is fradulant or not?
 
+## Loading CSV file into dataframe
+We used the following code to load the CSV file into dataframe
+![image](https://user-images.githubusercontent.com/104685001/191875241-f5f1489c-5be1-4cc6-bc94-a80e89b9560f.png)
+
+We have loaded our dataframe into a sql database.
+![image](https://user-images.githubusercontent.com/104685001/191875286-cc362854-a94f-4272-9c2e-e4ddc6820915.png)
+![image](https://user-images.githubusercontent.com/104685001/191875320-666a378b-a3e8-4ba7-b32a-a3add6df36c7.png)
+
+## Description of Data Preprocessing/Feature Engineering
+
+### Data Preprocessing
+
+- Checking null values.
+- Dropping columns.
+- Counting the number of frauds and visualizing.
+
+### Feature Engineering:
+
+- Creating dictionaries to change datatypes using map function to convert datatypes.
+- Calculation average fraud reported using groupby functions.
+- Dropping more columns.
+
+
 ## Machine Learning Model
 We will be using classification - supervised machine learning model.
 ![image (1)](https://user-images.githubusercontent.com/104685001/191869886-2b0721a4-bbb1-4ee5-8ff3-37de7e556129.png)
@@ -83,29 +106,6 @@ Flexible to both classification and regression problems.
 Takes longer time to train as it combines a lot of decision trees.
 
 Takes much computational power and resources as it builds many decision trees to combine their outputs.
-
-
-## Loading CSV file into dataframe
-We used the following code to load the CSV file into dataframe
-![image](https://user-images.githubusercontent.com/104685001/191875241-f5f1489c-5be1-4cc6-bc94-a80e89b9560f.png)
-
-We have loaded our dataframe into a sql database.
-![image](https://user-images.githubusercontent.com/104685001/191875286-cc362854-a94f-4272-9c2e-e4ddc6820915.png)
-![image](https://user-images.githubusercontent.com/104685001/191875320-666a378b-a3e8-4ba7-b32a-a3add6df36c7.png)
-
-## Description of Data Preprocessing/Feature Engineering
-
-### Data Preprocessing
-
-- Checking null values.
-- Dropping columns.
-- Counting the number of frauds and visualizing.
-
-### Feature Engineering:
-
-- Creating dictionaries to change datatypes using map function to convert datatypes.
-- Calculation average fraud reported using groupby functions.
-- Dropping more columns.
 
 ### [Tableau Dashboard](https://public.tableau.com/app/profile/bernie2684/viz/Team6_16651826100420/Predictinginsurancefraud?publish=yes)
 
