@@ -66,7 +66,7 @@ We have loaded our dataframe into a sql database.
 We will be using classification - supervised machine learning model.
 ![image (1)](https://user-images.githubusercontent.com/104685001/191869886-2b0721a4-bbb1-4ee5-8ff3-37de7e556129.png)
 
-**Machine learning model - Decision Tree Classifier**
+### Machine learning model - Decision Tree Classifier
 
 **Why we chose Decision Tree Classifier model?**
 
@@ -87,7 +87,7 @@ Decision trees cannot be used well with continuous numerical variables.
 
 A small change in the data tends to cause a big difference in the tree structure, which causes instability.
 
-**Machine learning model - Random Forest Classifier**
+### Machine learning model - Random Forest Classifier
 
 **Why we chose Random Forest Classifier model?**
 
@@ -107,7 +107,9 @@ Takes longer time to train as it combines a lot of decision trees.
 
 Takes much computational power and resources as it builds many decision trees to combine their outputs.
 
-### [Tableau Dashboard](https://public.tableau.com/app/profile/bernie2684/viz/Team6_16651826100420/Predictinginsurancefraud?publish=yes)
+## Tableau Dashboard
+
+[Click here](https://public.tableau.com/app/profile/bernie2684/viz/Team6_16651826100420/Predictinginsurancefraud?publish=yes) to view the dashboard.
 
 ## Technology Stack
 * Jupyter notebook - To load the dataset into dataframe and subsequently into database.
