@@ -1,7 +1,5 @@
 # Predicting Auto Insurance Fraud Claims 
 
-### [Tableau Dashboard](https://public.tableau.com/app/profile/bernie2684/viz/Team6_16651826100420/Predictinginsurancefraud?publish=yes)
-
 ## Reason for Selection of Topic
 Insurance fraud takes various forms from staged automobile collisions to submission of false invoices for rehabilitation services, and false theft claims just to mention a few. This causes insurance companies to suffer significant financial loss which affects their financial resources to pay legitimate claims. In the long run insurance consumers are the ones who suffer because they are made to pay higher premiums. In Ontario alone, the Insurance Bureau of Canada estimated that the cost of insurance fraud ranges between $770 million and $1.6 billion a year. It can be quite a challenge to determine which claims for insurance are legitimate and which ones are fake.
 
@@ -41,52 +39,6 @@ Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
 1) How often poeple file for insurance claim?
 2) Decision whether claim is fradulant or not?
 
-## Machine Learning Model
-We will be using classification - supervised machine learning model.
-![image (1)](https://user-images.githubusercontent.com/104685001/191869886-2b0721a4-bbb1-4ee5-8ff3-37de7e556129.png)
-
-**Machine learning model - Decision Tree Classifier**
-
-**Why we chose Decision Tree Classifier model?**
-
-Decision tree classifer is easy to intepret, understand and visualize.
-It can be used for both regression and classification problems.
-
-Our team is trying to build a machine learning model to predict the likelihood of insurance fraud based on the dataset.
-
-**What are the benefits?**
-
-Decision tree helps to quickly identify relationships between variables and the most significant variable.
-
-The output of a decision tree can also be easily understood.
-
-**What are the limitations?**
-
-Decision trees cannot be used well with continuous numerical variables.
-
-A small change in the data tends to cause a big difference in the tree structure, which causes instability.
-
-**Machine learning model - Random Forest Classifier**
-
-**Why we chose Random Forest Classifier model?**
-
-Insurance analysis requires a lot of effort as it contains a high risk of profit and loss.
-
-Customer analysis is the most common studies done for fraud prediction. RFC is a great choice for fraud detection.
-
-**What are the benefits?**
-
-Reduced overfitting in decision trees and helps to improve accuracy.
-
-Flexible to both classification and regression problems.
-
-**What are the limitations?**
-
-Takes longer time to train as it combines a lot of decision trees.
-
-Takes much computational power and resources as it builds many decision trees to combine their outputs.
-
-
 ## Loading CSV file into dataframe
 We used the following code to load the CSV file into dataframe
 ![image](https://user-images.githubusercontent.com/104685001/191875241-f5f1489c-5be1-4cc6-bc94-a80e89b9560f.png)
@@ -109,20 +61,63 @@ We have loaded our dataframe into a sql database.
 - Calculation average fraud reported using groupby functions.
 - Dropping more columns.
 
-## Tools used for Dashboard
-Tableau will be used to visualize our data and share insights
 
-Details on our dashboard will include the following:
-- Fraud reported by gender
-- Frauds by state
-- Fraud reported by age group
+## Machine Learning Model
+We will be using classification - supervised machine learning model.
+![image (1)](https://user-images.githubusercontent.com/104685001/191869886-2b0721a4-bbb1-4ee5-8ff3-37de7e556129.png)
 
+### Machine learning model - Decision Tree Classifier
+
+**Why we chose Decision Tree Classifier model?**
+
+Decision tree classifer is easy to intepret, understand and visualize.
+It can be used for both regression and classification problems.
+
+Our team is trying to build a machine learning model to predict the likelihood of insurance fraud based on the dataset.
+
+**What are the benefits?**
+
+Decision tree helps to quickly identify relationships between variables and the most significant variable.
+
+The output of a decision tree can also be easily understood.
+
+**What are the limitations?**
+
+Decision trees cannot be used well with continuous numerical variables.
+
+A small change in the data tends to cause a big difference in the tree structure, which causes instability.
+
+### Machine learning model - Random Forest Classifier
+
+**Why we chose Random Forest Classifier model?**
+
+Insurance analysis requires a lot of effort as it contains a high risk of profit and loss.
+
+Customer analysis is the most common studies done for fraud prediction. RFC is a great choice for fraud detection.
+
+**What are the benefits?**
+
+Reduced overfitting in decision trees and helps to improve accuracy.
+
+Flexible to both classification and regression problems.
+
+**What are the limitations?**
+
+Takes longer time to train as it combines a lot of decision trees.
+
+Takes much computational power and resources as it builds many decision trees to combine their outputs.
+
+## Tableau Dashboard
+
+[Click here](https://public.tableau.com/app/profile/bernie2684/viz/Team6_16651826100420/Predictinginsurancefraud?publish=yes) to view the dashboard.
 
 ## Technology Stack
 * Jupyter notebook - To load the dataset into dataframe and subsequently into database.
 * Python - Programming language used
 * Pandas - Libraries used for creating and cleaning the dataset.
 * Postgres - Storing the dataset into tables.
+* Tableau - Presenting the data in the form of a dashboard. 
+* Google Slides - For creating our presentation
 
 ## Team Roles
 * Square: Sandeep
