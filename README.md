@@ -114,6 +114,8 @@ We have loaded our dataframe into a sql database.
 * Python - Programming language used
 * Pandas - Libraries used for creating and cleaning the dataset.
 * Postgres - Storing the dataset into tables.
+* Tableau - Presenting the data in the form of a dashboard. 
+* Google Slides - For creating our presentation
 
 ## Team Roles
 * Square: Sandeep
