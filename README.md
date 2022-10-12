@@ -41,12 +41,6 @@ Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
 1) How often poeple file for insurance claim?
 2) Decision whether claim is fradulant or not?
 
-## Description of the Communication Protocols 
-1) All the project code/work will be tracked on Github repository. Each member will create a branch and upload their work to their respective branch and will add reviewer, once the code is reviewed and approved by the peers, the code will be merged to Main/Master branch.
-2) Team will meeting every Tuesday and Thursday at 7:00pm to 9:00 ET in the scheduled sessions with TAs to discuss the progress, impediments and to allocate the next tasks.
-3) lack will be used for quick exchanges/discussions.
-4) If needed Team will conduct adhoc meetings (on Xoom or Webex) to discuss clarifications and pressing issues.
-
 ## Machine Learning Model
 We will be using classification - supervised machine learning model.
 ![image (1)](https://user-images.githubusercontent.com/104685001/191869886-2b0721a4-bbb1-4ee5-8ff3-37de7e556129.png)
