@@ -36,8 +36,9 @@ Our Dataset is sourced from Kaggle. The 25 columns and description are as below:
 
 
 ## Questions to be Answered with the Data 
-1) How often poeple file for insurance claim?
-2) Decision whether claim is fradulant or not?
+1) Ratio of fraud claims by women to men?
+2) Fraudulent claims by age?
+3) Decision whether claim is fradulant or not?
 
 ## Loading CSV file into dataframe
 We used the following code to load the CSV file into dataframe
